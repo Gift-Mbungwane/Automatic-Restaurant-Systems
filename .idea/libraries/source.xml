@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="source">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../jcommon-0.9.7/jcommon-0.9.7/source" />
+    </SOURCES>
+  </library>
+</component>
